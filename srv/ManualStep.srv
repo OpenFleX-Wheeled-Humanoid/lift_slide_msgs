@@ -1,0 +1,8 @@
+int8 DIRECTION_UP=1
+int8 DIRECTION_DOWN=-1
+int8 direction
+float64 step_m
+float64 speed_mps
+---
+bool success
+string message
